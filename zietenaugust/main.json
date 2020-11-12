@@ -131,7 +131,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/blob\/master\/kreuzung\/main.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/master\/kreuzung\/main.json"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
