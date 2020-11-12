@@ -138,7 +138,7 @@
         }, 
         {
          "id":15,
-         "image":"278px-Chemnitz_-_Karl_Marx_monument_at_night_(aka).jpg",
+         "image":".\/278px-Chemnitz_-_Karl_Marx_monument_at_night_(aka).jpg",
          "name":"Karlmarx",
          "opacity":1,
          "type":"imagelayer",
@@ -184,7 +184,7 @@
         }, 
         {
          "id":12,
-         "image":"cyberwehr.png",
+         "image":".\/cyberwehr.png",
          "name":"Cyberwehr",
          "offsetx":1669.13447000161,
          "offsety":1941.8848319125,
