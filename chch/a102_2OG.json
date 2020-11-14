@@ -56,7 +56,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/kreuzung\/main.json"
+                 "value":"..\/kreuzung\/main.json#chch_ausgang\n"
                 }],
          "type":"tilelayer",
          "visible":true,
