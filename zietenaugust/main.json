@@ -131,7 +131,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"..\/kreuzung\/main.json#za_ausgang"
                 }],
