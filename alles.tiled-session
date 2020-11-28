@@ -6,10 +6,10 @@
     "fileStates": {
         "chch/a102_2OG.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2002.6666666666665,
-                "y": 1838
+                "x": 2000,
+                "y": 2303.333333333333
             }
         },
         "chch/a102_2OG.json#chaos_zone_shared": {
@@ -38,8 +38,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 2362.6666666666665,
-                "y": 646
+                "x": 2342.6666666666665,
+                "y": 796.6666666666666
             }
         },
         "kreuzung/main.json#chaos_zone_shared": {
@@ -61,18 +61,19 @@
             "scaleInDock": 1
         },
         "zietenaugust/main.json": {
-            "scale": 0.14784375,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2333.544705136335,
-                "y": 2587.19086873811
+                "x": 936,
+                "y": 1244.5
             }
         },
         "zietenaugust/main.json#chaos_zone": {
             "scaleInDock": 1
         },
         "zietenaugust/main.json#fantasy": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "zietenaugust/main.json#floortileset": {
             "scaleInDock": 1
@@ -87,7 +88,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 240,
+    "frame.defaultDuration": 1060,
     "openFiles": [
     ],
     "project": "alles.tiled-project",
