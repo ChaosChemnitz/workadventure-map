@@ -1,15 +1,18 @@
 {
-    "activeFile": "",
+    "activeFile": "chch/a102_2OG.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
         "chch/a102_2OG.json": {
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 2000,
-                "y": 2303.333333333333
+                "x": 1998.6666666666665,
+                "y": 1678
             }
         },
         "chch/a102_2OG.json#chaos_zone_shared": {
@@ -62,10 +65,10 @@
         },
         "zietenaugust/main.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 936,
-                "y": 1244.5
+                "x": 1539,
+                "y": 658.5
             }
         },
         "zietenaugust/main.json#chaos_zone": {
@@ -90,12 +93,16 @@
     },
     "frame.defaultDuration": 1060,
     "openFiles": [
+        "chch/a102_2OG.json",
+        "zietenaugust/main.json",
+        "kreuzung/main.json"
     ],
     "project": "alles.tiled-project",
     "recentFiles": [
-        "kreuzung/chaos_zone_shared.json",
         "kreuzung/main.json",
-        "chch/a102_2OG.json"
+        "zietenaugust/main.json",
+        "chch/a102_2OG.json",
+        "kreuzung/chaos_zone_shared.json"
     ],
     "tileset.embedInMap": true
 }
