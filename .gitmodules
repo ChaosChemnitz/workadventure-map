@@ -1,3 +1,8 @@
+[submodule "rc3-world"]
+	path = world-maps
+	url = https://git.cccv.de/rc3/world-maps.git
+	branch = master
+
 [submodule "rc3-tiles"]
 	path = rc3_tiles
 	url = https://github.com/cbluoss/rc3_tiles.git
