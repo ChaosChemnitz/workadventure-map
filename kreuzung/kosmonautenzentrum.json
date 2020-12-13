@@ -157,7 +157,7 @@
          "height":100,
          "id":2,
          "name":"start",
-         "opacity":0.95,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":100,
