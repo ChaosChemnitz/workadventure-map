@@ -3,7 +3,11 @@ COPYRIGHT Info
 Injektion </pre><strong>bla Ichmach dich fertig</strong>
 
 
-Text
+Text<div>
+
+<script>alert("hab dich");</script>
+
+Karte des ChCh - Chaostreff Chemnitz
 nächster text
 UTF-8 ääääh macht ß sichtbar
            dkdkdkd
