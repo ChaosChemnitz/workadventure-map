@@ -34,7 +34,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"rakete3.json"
                 }],
@@ -52,7 +52,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"rakete1.json"
                 }],
@@ -94,7 +94,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/kreuzung\/main.json#kosmo_ausgang"
                 }],
@@ -172,7 +172,7 @@
         {
          "columns":32,
          "firstgid":65,
-         "image":"..\/chaos_zone_shared.png",
+         "image":"..\/shared\/tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
