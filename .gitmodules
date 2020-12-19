@@ -7,7 +7,3 @@
 	path = rc3_tiles
 	url = https://github.com/cbluoss/rc3_tiles.git
 	branch = master
-[submodule "shared"]
-	path = shared
-	url = git@github.com:chaosz0ne/shared.git
-	branch = master
