@@ -164,6 +164,12 @@
          "id":18,
          "name":"webZietenaugustTour",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zietenaugust.de\/tour2020"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
