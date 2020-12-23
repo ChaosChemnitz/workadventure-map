@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/chch\/a102_2OG.json"
+                 "value":".\/chch\/a102_2OG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/zietenaugust\/main.json"
+                 "value":".\/zietenaugust\/main.json"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
@@ -164,7 +164,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"kosmonautenzentrum.json"
+                 "value":"kreuzung\/kosmonautenzentrum.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -368,7 +368,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/TheQLon_-_Exotic.mp3"
+                 "value":".\/TheQLon_-_Exotic.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -427,7 +427,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/floortileset.png",
+         "image":".\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -459,7 +459,7 @@
         {
          "columns":8,
          "firstgid":65,
-         "image":"..\/fantasy.png",
+         "image":".\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9905,7 +9905,7 @@
         {
          "columns":16,
          "firstgid":1129,
-         "image":"..\/modern.png",
+         "image":".\/modern.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -9955,7 +9955,7 @@
         {
          "columns":32,
          "firstgid":1321,
-         "image":"..\/chaos_zone_shared.png",
+         "image":".\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -10541,7 +10541,7 @@
         {
          "columns":16,
          "firstgid":3369,
-         "image":"..\/tilesets_deviant_milkian_1.png",
+         "image":".\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -10690,7 +10690,7 @@
         {
          "columns":10,
          "firstgid":3625,
-         "image":"..\/chemnitz_all.png",
+         "image":".\/chemnitz_all.png",
          "imageheight":1024,
          "imagewidth":320,
          "margin":0,
@@ -13404,7 +13404,7 @@
         {
          "columns":16,
          "firstgid":3945,
-         "image":"..\/tilesets_deviant_milkian_2.png",
+         "image":".\/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -13417,7 +13417,7 @@
         {
          "columns":16,
          "firstgid":4201,
-         "image":"..\/c3_deko.png",
+         "image":".\/c3_deko.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,

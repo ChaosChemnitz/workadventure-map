@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/kreuzung\/main.json#kosmo_ausgang"
+                 "value":"..\/main.json#kosmo_ausgang"
                 }],
          "type":"tilelayer",
          "visible":true,
