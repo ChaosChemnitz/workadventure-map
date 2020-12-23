@@ -169,7 +169,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/kreuzung\/main.json#chch_ausgang"
+                 "value":"..\/main.json#chch_ausgang"
                 }],
          "type":"tilelayer",
          "visible":true,

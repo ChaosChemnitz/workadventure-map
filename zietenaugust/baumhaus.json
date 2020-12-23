@@ -138,7 +138,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/kreuzung\/main.json#za_ausgang"
+                 "value":"..\/main.json#za_ausgang"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
