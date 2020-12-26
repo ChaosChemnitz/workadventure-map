@@ -183,6 +183,12 @@
          "id":13,
          "name":"Disko",
          "opacity":0.12,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"..\/TheQLon_-_Exotic.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":74,
