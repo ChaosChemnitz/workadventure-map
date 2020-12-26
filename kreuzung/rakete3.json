@@ -295,6 +295,26 @@
                 {
                  "animation":[
                         {
+                         "duration":200,
+                         "tileid":590
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":591
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":622
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":623
+                        }],
+                 "id":589
+                }, 
+                {
+                 "animation":[
+                        {
                          "duration":650,
                          "tileid":865
                         }, 
