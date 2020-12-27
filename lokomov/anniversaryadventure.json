@@ -83,7 +83,7 @@
          "name":"Kachelebene 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":70,
          "x":0,
          "y":0
@@ -428,7 +428,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"todo"
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_chaoschemnitz}"
                 }],
          "type":"tilelayer",
          "visible":true,
