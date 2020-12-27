@@ -391,7 +391,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoszone}"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
