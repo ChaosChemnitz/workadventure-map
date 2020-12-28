@@ -129,12 +129,6 @@
          "id":15,
          "name":"webSpaceTour2020",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/chch.it\/tour2020"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
@@ -187,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_chaoschemnitz}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoschemnitz}"
                 }],
          "type":"tilelayer",
          "visible":true,
