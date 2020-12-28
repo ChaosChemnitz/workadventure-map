@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_chaoschemnitz}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoschemnitz}"
                 }],
          "type":"tilelayer",
          "visible":true,
