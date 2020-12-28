@@ -50,6 +50,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/meet.chemnitz.freifunk.net\/Sprechstunde"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
