@@ -458,7 +458,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/TheQLon_-_Exotic.mp3"
+                 "value":"stream:dezentale"
                 }],
          "type":"tilelayer",
          "visible":true,
