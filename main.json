@@ -391,7 +391,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json}"
+                 "value":"{<chaoszone>/main.json}"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
