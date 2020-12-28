@@ -47,9 +47,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.chemnitz.freifunk.net\/Sprechstunde"
+                 "value":"chch"
                 }, 
                 {
                  "name":"silent",
