@@ -108,7 +108,7 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"kMgXeAWuG20HHXDfu2TKIAmFJhBe8ZVQu6qucK0P9mHWdmMy2D"
+                 "value":"csrfmiddlewaretoken=wSlwewqz9fBRiXoWIghDtq5zpaq5VBVpKgfVFKryhL5ESGnJaCrqDRgRiksPtWL7&badge_class=map&amount=5"
                 }],
          "type":"tilelayer",
          "visible":true,

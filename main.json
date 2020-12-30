@@ -43,7 +43,7 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"https:IYq4TObmiUTR9iCdzuAH0dQCfGGismmzX8EFfOTnxBMGCXKDph"
+                 "value":"csrfmiddlewaretoken=VaUdovSxMiusIaswY3D9OjHh8RmZkyTc9yOCPJTwUOYfiTrjqpNWYKSz11oJSTJU&badge_class=map&amount=5"
                 }],
          "type":"tilelayer",
          "visible":true,
