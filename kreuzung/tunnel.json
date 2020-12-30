@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#waschmaschine_web"
+                 "value":"..\/main.json#exitTunnelW"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#exitTunnelW"
+                 "value":"..\/main.json#waschmaschine_web"
                 }],
          "type":"tilelayer",
          "visible":true,
