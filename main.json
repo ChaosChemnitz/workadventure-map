@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"/_/global/c0c0bird.github.io/chaos-world/main.json#chaoszone"
+                 "value":"/_/global/c0c0bird.github.io/chaos-world/main.json"
                 }],
          "type":"tilelayer",
          "visible":false,
