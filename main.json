@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoschemnitz}"
+                 "value":"/_/global/c0c0bird.github.io/chaos-world/main.json#chaoszone"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -504,7 +504,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<chaoszone>\/main.json}"
+                 "value":"/_/global/raw.githubusercontent.com/chaosz0ne/shared/main/main.json"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
