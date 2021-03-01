@@ -450,7 +450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"/_/global/c0c0bird.github.io/chaos-world/main.json"
+                 "value":"/_/global/maps.live.linux-tage.de/maps/ZHSG/EG.json#start_live_CHCH"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -504,7 +504,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"/_/global/raw.githubusercontent.com/chaosz0ne/shared/main/main.json"
+                 "value":"/_/global/maps.live.linux-tage.de/maps/ZHSG/EG.json#start_live_CHCH"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",

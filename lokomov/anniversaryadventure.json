@@ -422,7 +422,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/zietenaugust\/main.json"
+                 "value":"..\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

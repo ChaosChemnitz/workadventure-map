@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoschemnitz}"
+                 "value":"/_/global/maps.live.linux-tage.de/maps/ZHSG/EG.json#start_live_CHCH"
                 }],
          "type":"tilelayer",
          "visible":true,
