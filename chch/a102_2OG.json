@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/clt.computertruhe.de\/main.json"
+                 "value":"\/_\/global\/clt.computertruhe.de\/workshop.json#start_chch"
                 }],
          "type":"tilelayer",
          "visible":true,
