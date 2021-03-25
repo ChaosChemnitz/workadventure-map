@@ -12,10 +12,19 @@
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 1998.6666666666665,
-                "y": 1678
+                "y": 1677.3333333333333
             }
         },
+        "chch/a102_2OG.json#Computertruhe": {
+            "scaleInDock": 1
+        },
         "chch/a102_2OG.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "chch/a102_2OG.json#chemnitz_all": {
+            "scaleInDock": 1
+        },
+        "chch/a102_2OG.json#clt_tileset": {
             "scaleInDock": 1
         },
         "chch/a102_2OG.json#fantasy": {
@@ -68,10 +77,22 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 1539,
-                "y": 658.5
+                "y": 658
             }
         },
+        "zietenaugust/main.json#campfire": {
+            "scaleInDock": 1
+        },
         "zietenaugust/main.json#chaos_zone": {
+            "scaleInDock": 1
+        },
+        "zietenaugust/main.json#chemnitz_all": {
+            "scaleInDock": 1
+        },
+        "zietenaugust/main.json#chemnitz_sign": {
+            "scaleInDock": 1
+        },
+        "zietenaugust/main.json#clt_tileset": {
             "scaleInDock": 1
         },
         "zietenaugust/main.json#fantasy": {
@@ -94,14 +115,13 @@
     "frame.defaultDuration": 1060,
     "openFiles": [
         "chch/a102_2OG.json",
-        "zietenaugust/main.json",
-        "kreuzung/main.json"
+        "zietenaugust/main.json"
     ],
     "project": "alles.tiled-project",
     "recentFiles": [
-        "kreuzung/main.json",
         "zietenaugust/main.json",
         "chch/a102_2OG.json",
+        "kreuzung/main.json",
         "kreuzung/chaos_zone_shared.json"
     ],
     "tileset.embedInMap": true
