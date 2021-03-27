@@ -538,7 +538,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/maps.live.linux-tage.de\/maps\/ZHSG\/EG.json#start_live_CHCH"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
