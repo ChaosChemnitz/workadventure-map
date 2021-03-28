@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"_\/global\/r2r.computertruhe.de\/workshop.json#start_chch"
+                 "value":"\/_\/global\/r2r.computertruhe.de\/workshop.json#start_chch"
                 }],
          "type":"tilelayer",
          "visible":true,
