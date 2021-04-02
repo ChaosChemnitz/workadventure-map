@@ -122,6 +122,12 @@
          "id":20,
          "name":"ChCh-jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"shared-chch"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
