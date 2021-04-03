@@ -11,8 +11,8 @@
             "scale": 0.75,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 1998.6666666666665,
-                "y": 1677.3333333333333
+                "x": 1997.9999999999998,
+                "y": 1568
             }
         },
         "chch/a102_2OG.json#Computertruhe": {
@@ -25,6 +25,9 @@
             "scaleInDock": 1
         },
         "chch/a102_2OG.json#clt_tileset": {
+            "scaleInDock": 1
+        },
+        "chch/a102_2OG.json#divoc-functional": {
             "scaleInDock": 1
         },
         "chch/a102_2OG.json#fantasy": {
@@ -76,8 +79,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1539,
-                "y": 658
+                "x": 1183.5,
+                "y": 960
             }
         },
         "zietenaugust/main.json#campfire": {
@@ -93,6 +96,9 @@
             "scaleInDock": 1
         },
         "zietenaugust/main.json#clt_tileset": {
+            "scaleInDock": 1
+        },
+        "zietenaugust/main.json#divoc-functional": {
             "scaleInDock": 1
         },
         "zietenaugust/main.json#fantasy": {
