@@ -484,7 +484,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaoschemnitz"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/sachsen\/sachsen.json#reentry-chemnitz"
                 }],
          "type":"tilelayer",
          "visible":true,
