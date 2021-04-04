@@ -9,10 +9,10 @@
         },
         "chch/a102_2OG.json": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1997.9999999999998,
-                "y": 1568
+                "x": 480.6666666666665,
+                "y": 1269.3333333333335
             }
         },
         "chch/a102_2OG.json#Computertruhe": {
@@ -49,6 +49,41 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "kreuzung/kosmonautenzentrum.json": {
+            "scale": 0.44590624999999995,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 1405.0038545097766,
+                "y": 1598.9908192585326
+            }
+        },
+        "kreuzung/kosmonautenzentrum.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#chemnitz_all": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#chemnitz_sign": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#divoc-functional": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#milkian_2": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#milkian_3": {
+            "scaleInDock": 1
+        },
+        "kreuzung/kosmonautenzentrum.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
         "kreuzung/main.json": {
             "scale": 0.75,
             "selectedLayer": 7,
@@ -75,12 +110,91 @@
         "kreuzung/main.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
+        "kreuzung/rakete3.json": {
+            "scale": 1.8579427083333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.1738033499194,
+                "y": 384.2960263508305
+            }
+        },
+        "kreuzung/rakete3.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#chemnitz_all": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#divoc-functional": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#milkian_2": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#milkian_3": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "kreuzung/rakete3.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "main.json": {
+            "scale": 0.48468070652173906,
+            "selectedLayer": 30,
+            "viewCenter": {
+                "x": 1424.6492396103445,
+                "y": 1473.1347676781838
+            }
+        },
+        "main.json#c3_deko": {
+            "scaleInDock": 1
+        },
+        "main.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "main.json#chemnitz_all": {
+            "scaleInDock": 1
+        },
+        "main.json#chemnitz_sign": {
+            "scaleInDock": 1
+        },
+        "main.json#divoc-functional": {
+            "scaleInDock": 1
+        },
+        "main.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "main.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "main.json#milkian_2": {
+            "scaleInDock": 1
+        },
+        "main.json#modern": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "main.json#roter-turm": {
+            "scaleInDock": 1
+        },
+        "main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
         "zietenaugust/main.json": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 1183.5,
-                "y": 960
+                "x": 1095.5,
+                "y": 959
             }
         },
         "zietenaugust/main.json#campfire": {
@@ -125,8 +239,8 @@
     ],
     "project": "alles.tiled-project",
     "recentFiles": [
-        "zietenaugust/main.json",
         "chch/a102_2OG.json",
+        "zietenaugust/main.json",
         "kreuzung/main.json",
         "kreuzung/chaos_zone_shared.json"
     ],

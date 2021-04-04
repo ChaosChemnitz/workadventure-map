@@ -538,7 +538,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/sachsen\/sachsen.json#reentry-chemnitz"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
