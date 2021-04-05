@@ -11,8 +11,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 480.6666666666665,
-                "y": 1269.3333333333335
+                "x": 486,
+                "y": 1268
             }
         },
         "chch/a102_2OG.json#Computertruhe": {
@@ -53,8 +53,8 @@
             "scale": 0.44590624999999995,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 1405.0038545097766,
-                "y": 1598.9908192585326
+                "x": 1413.9743499894878,
+                "y": 1596.7481953886047
             }
         },
         "kreuzung/kosmonautenzentrum.json#chaos_zone_shared": {
@@ -112,9 +112,9 @@
         },
         "kreuzung/rakete3.json": {
             "scale": 1.8579427083333333,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 400.1738033499194,
+                "x": 402.32672226505014,
                 "y": 384.2960263508305
             }
         },
@@ -193,8 +193,8 @@
             "scale": 1,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 1095.5,
-                "y": 959
+                "x": 1098.5,
+                "y": 958
             }
         },
         "zietenaugust/main.json#campfire": {
