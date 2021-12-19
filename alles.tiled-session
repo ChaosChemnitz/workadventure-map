@@ -5,14 +5,15 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "chch/a102_2OG.json": {
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 486,
-                "y": 1268
+                "x": 456,
+                "y": 488
             }
         },
         "chch/a102_2OG.json#Computertruhe": {
@@ -154,22 +155,27 @@
             }
         },
         "main.json#c3_deko": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#chaos_zone_shared": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#chemnitz_all": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#chemnitz_sign": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#divoc-functional": {
             "scaleInDock": 1
         },
         "main.json#fantasy": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#floortileset": {
             "scaleInDock": 1
@@ -181,7 +187,8 @@
             "scaleInDock": 1
         },
         "main.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#roter-turm": {
             "scaleInDock": 1
@@ -193,8 +200,8 @@
             "scale": 1,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 1098.5,
-                "y": 958
+                "x": 930,
+                "y": 1189
             }
         },
         "zietenaugust/main.json#campfire": {
@@ -239,8 +246,8 @@
     ],
     "project": "alles.tiled-project",
     "recentFiles": [
-        "chch/a102_2OG.json",
         "zietenaugust/main.json",
+        "chch/a102_2OG.json",
         "kreuzung/main.json",
         "kreuzung/chaos_zone_shared.json"
     ],
