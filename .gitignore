@@ -5,4 +5,5 @@
 Session.vim
 .netrwhist
 *~
+*.tiled-session
 
