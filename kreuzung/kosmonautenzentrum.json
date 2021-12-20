@@ -86,6 +86,12 @@
          "id":19,
          "name":"gotoLobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaoschemnitz\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -116,6 +122,12 @@
          "id":20,
          "name":"ChCh-jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"shared-chch"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
