@@ -125,10 +125,17 @@
     ],
     "project": "alles.tiled-project",
     "recentFiles": [
+        "kreuzung/rakete3.json",
+        "kreuzung/rakete2.json",
+        "kreuzung/tunnel.json",
         "zietenaugust/main.json",
+        "main.json",
         "chch/a102_2OG.json",
-        "kreuzung/main.json",
-        "kreuzung/chaos_zone_shared.json"
+        "kreuzung/rakete1.json",
+        "kreuzung/kosmonautenzentrum.json",
+        "zietenaugust/baumhaus.json",
+        "lokomov/anniversaryadventure.json",
+        "kreuzung/keen-rocket.json"
     ],
     "tileset.embedInMap": true
 }
