@@ -227,8 +227,14 @@
  "nextlayerid":17,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"ChCh Map (cc0by) https:\/\/chch.it"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

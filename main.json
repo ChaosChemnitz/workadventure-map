@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":92,
  "infinite":false,
  "layers":[
@@ -650,9 +657,14 @@
          "name":"collides",
          "type":"bool",
          "value":true
+        }, 
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"ChCh Map (cc0by) https:\/\/chch.it"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -13976,6 +13988,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":1.4,
  "width":89
 }
