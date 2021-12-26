@@ -545,7 +545,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
+                 "value":"world:\/\/lobby\/chaoszone.json#start_chch"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
@@ -594,7 +594,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds/TheQLon_-_Exotic.mp3"
+                 "value":"sounds\/TheQLon_-_Exotic.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -669,7 +669,7 @@
          "value":"Chaos Chemnitz"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
