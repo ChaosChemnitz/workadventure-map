@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaoschemnitz"
+                 "value":"world:\/\/lobby\/chaoszone.json#start_chch"
                 }],
          "type":"tilelayer",
          "visible":true,
