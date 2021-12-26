@@ -149,6 +149,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE TO USE Tileset 512x512px by milkian https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Hospital-651534818"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -162,6 +168,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC) by ChaosZoneShared https:\/\/github.com\/chaosz0ne\/shared\/blob\/main\/tiles\/chaos_zone_shared.png"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -175,6 +187,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(cc0) https:\/\/tiles.rc3.world\/rc3-2020\/structures\/rc3-mullana-floor-wall.png"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
