@@ -197,6 +197,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC-BY-SA 3.0) 512x512px by 3lv3n https:\/\/www.deviantart.com\/3lv3n\/art\/Grass-and-dungeon-floor-tile-map-with-some-snow-700702945"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -220,6 +226,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -9666,6 +9678,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"milikan",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE TO USE Tileset 512x512px by milkian https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -9679,6 +9697,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC) by ChaosZoneShared https:\/\/github.com\/chaosz0ne\/shared\/blob\/main\/tiles\/chaos_zone_shared.png"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -9785,6 +9809,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"chemnitz_all",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0BY Chaostreff Chemnitz https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":320,
          "tileheight":32,
