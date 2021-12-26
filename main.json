@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":0,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -28,7 +28,7 @@
          "name":"Hintergrund",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -41,11 +41,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"csrfmiddlewaretoken=t8hlyHbYK6vD9hv2Ki4sc1stAhhfsrFlqNyp5MW1RiS8vpS4ZB &badge_class=map"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/de.wikipedia.org\/wiki\/Roter_Turm_(Chemnitz)"
@@ -53,6 +48,45 @@
          "type":"tilelayer",
          "visible":true,
          "width":89,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":47,
+         "name":"Badge",
+         "objects":[
+                {
+                 "height":78.666666666667,
+                 "id":3,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"csrfmiddlewaretoken=t8hlyHbYK6vD9hv2Ki4sc1stAhhfsrFlqNyp5MW1RiS8vpS4ZB &badge_class=map"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":133.333333333333,
+                 "x":2605.33333333333,
+                 "y":2797.33333333333
+                }, 
+                {
+                 "height":0,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":2613.33333333333,
+                 "y":2854.66666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -69,7 +103,7 @@
                  "value":"lokomov\/anniversaryadventure.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -81,7 +115,7 @@
          "name":"Blumen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -99,7 +133,7 @@
                  "value":"main.json#beam_padL"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -117,7 +151,7 @@
                  "value":"main.json#beam_padR"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -135,7 +169,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -153,7 +187,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -171,7 +205,7 @@
                  "value":".\/chch\/a102_2OG.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -189,7 +223,7 @@
                  "value":"https:\/\/chemnitz-entdecker.de\/d19-figurengruppe-pinguine.html?pos=a101"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -208,7 +242,7 @@
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -226,7 +260,7 @@
                  "value":"kreuzung\/kosmonautenzentrum.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -244,7 +278,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -262,7 +296,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -280,7 +314,7 @@
                  "value":"shared-chaoszone"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -417,7 +451,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -435,7 +469,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -453,7 +487,7 @@
                  "value":"https:\/\/archive.org\/details\/die_ankunft_des_robert"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -476,7 +510,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -494,7 +528,7 @@
                  "value":"world:\/\/chaoszone\/main.json#start_chemnitz"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":89,
          "x":0,
          "y":0
@@ -545,7 +579,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
+                 "value":"world:\/\/lobby\/chaoszone.json#start_chch"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
@@ -594,7 +628,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds/TheQLon_-_Exotic.mp3"
+                 "value":"sounds\/TheQLon_-_Exotic.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -649,8 +683,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":47,
- "nextobjectid":2,
+ "nextlayerid":48,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -667,14 +701,9 @@
          "name":"mapName",
          "type":"string",
          "value":"Chaos Chemnitz"
-        }, 
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"ChCh Map (cc0by) https:\/\/chch.it"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {

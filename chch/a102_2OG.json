@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"_\/global\/r2r.computertruhe.de\/workshop.json#start_chch"
+                 "value":"world:\/\/computertruhe\/workshop.json#start_chch"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -282,7 +282,7 @@
          "value":"ChCh Map (cc0by) https:\/\/chch.it"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
