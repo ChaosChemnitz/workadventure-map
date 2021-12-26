@@ -474,6 +474,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Outside_B",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-SA 3.0) https:\/\/opengameart.org\/content\/lpc-modified-base-tiles"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -533,6 +539,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Inside_A2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-SA 3.0) https:\/\/opengameart.org\/content\/lpc-modified-base-tiles"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -546,6 +558,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Inside_A4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-SA 3.0) https:\/\/opengameart.org\/content\/lpc-modified-base-tiles"
+                }],
          "spacing":0,
          "tilecount":240,
          "tileheight":32,
@@ -605,6 +623,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Inside_B",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-SA 3.0) https:\/\/opengameart.org\/content\/lpc-modified-base-tiles"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -628,6 +652,12 @@
          "imagewidth":1440,
          "margin":0,
          "name":"open_tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-SA 3.0) silveira neto https:\/\/silveiraneto.net\/tag\/tilset\/"
+                }],
          "spacing":0,
          "tilecount":1710,
          "tileheight":32,
@@ -1389,6 +1419,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"interior",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-SA 3.0) https:\/\/opengameart.org\/content\/lpc-modified-base-tiles"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1664,6 +1700,12 @@
          "imagewidth":768,
          "margin":0,
          "name":"347-3472726_rpg-maker-2003-resource-s-for-windows-rpg",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/forums.rpgmakerweb.com\/index.php?threads\/bigger-and-better-grannys-modern-tiles-sprites-for-mv.43858\/"
+                }],
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
@@ -1879,6 +1921,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"chemnitz_sign",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0BY Chaostreff Chemnitz https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":320,
          "tileheight":32,
