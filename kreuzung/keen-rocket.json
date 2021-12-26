@@ -7302,16 +7302,6 @@
          "spacing":0,
          "tilecount":320,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":223,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/archive.org\/embed\/msdos_Commander_Keen_4_-_Secret_of_the_Oracle_1991&autoplay=1"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
