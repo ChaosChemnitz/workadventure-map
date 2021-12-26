@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":92,
  "infinite":false,
  "layers":[
@@ -650,9 +657,14 @@
          "name":"collides",
          "type":"bool",
          "value":true
+        }, 
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"ChCh Map (cc0by) https:\/\/chch.it"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -663,6 +675,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC-BY-SA 3.0) 512x512px by 3lv3n https:\/\/www.deviantart.com\/3lv3n\/art\/Grass-and-dungeon-floor-tile-map-with-some-snow-700702945"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -695,6 +713,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -10141,6 +10165,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"modern",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC BY-NC 3.0) License https:\/\/www.deviantart.com\/painhurt\/art\/RPG-Maker-VX-ModernRTP-TileA2-206955520"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -10191,6 +10221,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(CC) by ChaosZoneShared https:\/\/github.com\/chaosz0ne\/shared\/blob\/main\/tiles\/chaos_zone_shared.png"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -10968,6 +11004,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE TO USE Tileset 512x512px by milkian https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -11117,6 +11159,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"chemnitz_all",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0BY Chaostreff Chemnitz https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":320,
          "tileheight":32,
@@ -13831,6 +13879,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"milkian_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE TO USE Tileset 512x512px by milkian https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Hospital-651534818"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -13844,6 +13898,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3_deko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA CERT (https:\/\/github.com\/c3CERT\/rc3-cert\/tree\/master\/tiles\/imgs\/c3_deko)"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -13857,6 +13917,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"chemnitz_sign",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0BY Chaostreff Chemnitz https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":320,
          "tileheight":32,
@@ -13870,6 +13936,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(cc0) https:\/\/tiles.rc3.world\/rc3-2020\/structures\/rc3-mullana-functionary.png"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -13883,6 +13955,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"roter-turm",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0BY Chaostreff Chemnitz https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -13969,6 +14047,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"divoc-functional",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -13976,6 +14060,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":1.4,
  "width":89
 }
