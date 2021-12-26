@@ -43,7 +43,7 @@
                 {
                  "name":"getBadge",
                  "type":"string",
-                 "value":"csrfmiddlewaretoken=VaUdovSxMiusIaswY3D9OjHh8RmZkyTc9yOCPJTwUOYfiTrjqpNWYKSz11oJSTJU&badge_class=map&amount=5"
+                 "value":"csrfmiddlewaretoken=t8hlyHbYK6vD9hv2Ki4sc1stAhhfsrFlqNyp5MW1RiS8vpS4ZB &badge_class=map"
                 }, 
                 {
                  "name":"openWebsite",
@@ -491,7 +491,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaoschemnitz"
+                 "value":"world:\/\/chaoszone\/main.json#start_chemnitz"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -594,7 +594,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"stream:dezentale"
+                 "value":"sounds/TheQLon_-_Exotic.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -654,14 +654,19 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"collides",
-         "type":"bool",
-         "value":true
-        }, 
-        {
          "name":"mapCopyright",
          "type":"string",
          "value":"ChCh Map (cc0by) https:\/\/chch.it"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Ein kleiner Stadtrundgang durch die Attraktionen von Chemnitz"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Chaos Chemnitz"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
@@ -10986,13 +10991,7 @@
                          "duration":600,
                          "tileid":867
                         }],
-                 "id":864,
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"csrfmiddlewaretoken=VaUdovSxMiusIaswY3D9OjHh8RmZkyTc9yOCPJTwUOYfiTrjqpNWYKSz11oJSTJU&badge_class=map&amount=5"
-                        }]
+                 "id":864
                 }],
          "tilewidth":32
         }, 
