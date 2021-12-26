@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaoschemnitz"
+                 "value":"world:\/\/computertruhe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
          "value":"ChCh Map (cc0by) https:\/\/chch.it"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {

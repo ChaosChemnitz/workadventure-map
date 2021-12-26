@@ -133,7 +133,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Bee-noise.mp3"
+                 "value":"..\/sounds\/Bee-noise.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,7 +188,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_chaoschemnitz"
+                 "value":"world:\/\/lobby\/chaoszone.json#start_chch"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +283,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/TheQLon_-_Exotic.mp3"
+                 "value":"..\/sounds\/TheQLon_-_Exotic.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
