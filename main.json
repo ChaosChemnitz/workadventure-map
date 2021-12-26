@@ -64,7 +64,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"csrfmiddlewaretoken=t8hlyHbYK6vD9hv2Ki4sc1stAhhfsrFlqNyp5MW1RiS8vpS4ZB &badge_class=map"
+                         "value":"t8hlyHbYK6vD9hv2Ki4sc1stAhhfsrFlqNyp5MW1RiS8vpS4ZB"
                         }],
                  "rotation":0,
                  "type":"",
