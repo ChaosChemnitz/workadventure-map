@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/ffc"
+                 "value":"world:\/\/ffc\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
