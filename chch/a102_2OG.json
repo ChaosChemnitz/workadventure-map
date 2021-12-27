@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":33,
  "infinite":false,
  "layers":[
@@ -24,6 +17,34 @@
          "type":"tilelayer",
          "visible":true,
          "width":59,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":24,
+         "name":"Badge",
+         "objects":[
+                {
+                 "height":64.25,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"EsedR6D5OLhrNvl2AN5ZZHHEOEDYEUjMCD0wqDdRC8WKYD0ckD"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":1216,
+                 "y":703.75
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -308,8 +329,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":24,
- "nextobjectid":1,
+ "nextlayerid":25,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -318,7 +339,7 @@
          "value":"ChCh Map (cc0by) https:\/\/chch.it"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -7576,6 +7597,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":59
 }
