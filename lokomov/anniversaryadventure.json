@@ -421,7 +421,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#comefromLokomov"
                 }],
          "type":"tilelayer",
          "visible":true,
