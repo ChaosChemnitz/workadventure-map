@@ -103,7 +103,7 @@
                  "value":"lokomov\/anniversaryadventure.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -115,7 +115,7 @@
          "name":"Blumen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -133,7 +133,7 @@
                  "value":"main.json#beam_padL"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -151,7 +151,7 @@
                  "value":"main.json#beam_padR"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -169,7 +169,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -187,7 +187,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -205,7 +205,7 @@
                  "value":".\/chch\/a102_2OG.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -223,7 +223,7 @@
                  "value":"https:\/\/chemnitz-entdecker.de\/d19-figurengruppe-pinguine.html?pos=a101"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -242,7 +242,7 @@
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -260,7 +260,7 @@
                  "value":"kreuzung\/kosmonautenzentrum.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -278,7 +278,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -296,7 +296,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -314,7 +314,7 @@
                  "value":"shared-chaoszone"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -332,7 +332,7 @@
                  "value":"shared-chch"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -691,7 +691,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -702,7 +702,7 @@
          "name":"Schilder",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
@@ -714,7 +714,7 @@
          "name":"Karlmarx",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":89,
          "x":0,
          "y":0
