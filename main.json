@@ -314,9 +314,8 @@
                  "y":2797.33333333333
                 }, 
                 {
-                 "ellipse":true,
-                 "height":64.5,
-                 "id":7,
+                 "height":48,
+                 "id":8,
                  "name":"",
                  "properties":[
                         {
@@ -327,9 +326,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":215,
-                 "x":2009.5,
-                 "y":2713
+                 "width":197.5,
+                 "x":2021.5,
+                 "y":2718.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -750,7 +749,7 @@
          "y":0
         }],
  "nextlayerid":53,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {
