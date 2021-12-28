@@ -206,6 +206,12 @@
          "id":53,
          "name":"comefromZietenaugust",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":89,
