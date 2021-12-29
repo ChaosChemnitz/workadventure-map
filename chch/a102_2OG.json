@@ -7516,15 +7516,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":985,
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"csrfmiddlewaretoken=wSlwewqz9fBRiXoWIghDtq5zpaq5VBVpKgfVFKryhL5ESGnJaCrqDRgRiksPtWL7&badge_class=map&amount=5"
-                        }]
                 }],
          "tilewidth":32
         }, 
