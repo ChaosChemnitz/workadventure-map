@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":92,
  "infinite":false,
  "layers":[
@@ -347,6 +354,40 @@
                  "width":197.5,
                  "x":2021.5,
                  "y":2718.5
+                }, 
+                {
+                 "height":90,
+                 "id":9,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"gPows4X1VpLEvCtGsZjhPn9ABBn3BDnRJWXlUzpnYc0MLX4qNt "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":143.333333333333,
+                 "x":1990,
+                 "y":2404
+                }, 
+                {
+                 "height":88.6666666666667,
+                 "id":10,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"[\n    {\n        \"name\": \"getBadge\",\n        \"type\": \"string\",\n        \"value\": \"gPows4X1VpLEvCtGsZjhPn9ABBn3BDnRJWXlUzpnYc0MLX4qNt \"\n    }\n]\n"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":124.666666666667,
+                 "x":2114.66666666667,
+                 "y":1795.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -767,7 +808,7 @@
          "y":0
         }],
  "nextlayerid":54,
- "nextobjectid":9,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -786,7 +827,7 @@
          "value":"Chaos Chemnitz"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -14286,6 +14327,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":89
 }
