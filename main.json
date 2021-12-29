@@ -363,7 +363,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"gPows4X1VpLEvCtGsZjhPn9ABBn3BDnRJWXlUzpnYc0MLX4qNt "
+                         "value":"gPows4X1VpLEvCtGsZjhPn9ABBn3BDnRJWXlUzpnYc0MLX4qNt"
                         }],
                  "rotation":0,
                  "type":"",
@@ -380,7 +380,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"[\n    {\n        \"name\": \"getBadge\",\n        \"type\": \"string\",\n        \"value\": \"gPows4X1VpLEvCtGsZjhPn9ABBn3BDnRJWXlUzpnYc0MLX4qNt \"\n    }\n]\n"
+                         "value":"gPows4X1VpLEvCtGsZjhPn9ABBn3BDnRJWXlUzpnYc0MLX4qNt"
                         }],
                  "rotation":0,
                  "type":"",
